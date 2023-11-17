@@ -1,5 +1,9 @@
 add and remove usrs
 change the roles
 
+<<<<<<< HEAD
 hello
 
+=======
+hellow making change in the adminServices
+>>>>>>> Featur1
